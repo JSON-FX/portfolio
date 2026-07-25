@@ -10,19 +10,19 @@ export default function About() {
         <div className="about-grid">
           <div>
             <p className="about-lede" data-reveal>
-              Nine years turning messy requirements into{" "}
-              <em>dependable, shipped software</em> — from municipal government
-              systems to e-commerce platforms and a macOS app.
+              Nine years building software — and{" "}
+              <em>the automation behind it</em>. From full-stack apps to workflow
+              automations and API integrations, I turn slow, manual processes
+              into systems that run themselves.
             </p>
             <p className="about-body" data-reveal>
               My core is modern JavaScript — <b>React, Next.js, Vue, and React Native</b>{" "}
-              — alongside <b>Laravel</b> and <b>WordPress</b>, and I own the whole
-              path to production: multi-server Hub &amp; Spoke deployments, CI/CD
-              with GitHub Actions and Bitbucket, custom plugins, and REST
-              integrations. Remote-first since 2023, delivering for teams across
-              Australia, Denmark, Canada, and the US — increasingly pairing AI
-              coding tools with solid engineering to ship faster without cutting
-              corners.
+              — alongside <b>Laravel</b> and <b>WordPress</b>. From multi-server
+              Hub &amp; Spoke distribution to CI/CD pipelines, custom plugins, and
+              REST APIs, I build across the whole path to production — for teams
+              in Australia, Denmark, Canada, and the US. Remote-first since 2023,
+              increasingly pairing AI coding tools with solid engineering to ship
+              faster without cutting corners.
             </p>
             <div className="about-core" data-reveal>
               {aboutChips.map((c) => (
