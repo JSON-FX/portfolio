@@ -22,7 +22,7 @@ const jbmono = JetBrains_Mono({
 });
 
 const siteUrl =
-  process.env.NEXT_PUBLIC_SITE_URL ?? "https://jayson-alanano.vercel.app";
+  process.env.NEXT_PUBLIC_SITE_URL ?? "https://jaysonalanano.vercel.app";
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
