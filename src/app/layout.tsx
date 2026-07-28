@@ -28,7 +28,7 @@ export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
   title: "Jayson Alanano — Full-Stack Developer",
   description:
-    "Full-stack developer with 9+ years across React, Next.js, React Native, Laravel, and WordPress. Remote-first, shipping production software and CI/CD for teams worldwide.",
+    "Full-stack developer with 9+ years across React, Next.js, React Native, Laravel, Python, and WordPress. Remote-first, shipping production software and CI/CD for teams worldwide.",
   keywords: [
     "Jayson Alanano",
     "Full-Stack Developer",
@@ -36,6 +36,8 @@ export const metadata: Metadata = {
     "Next.js",
     "React Native",
     "Laravel",
+    "Python",
+    "Django",
     "WordPress",
     "TypeScript",
     "DevOps",
@@ -48,14 +50,14 @@ export const metadata: Metadata = {
     url: siteUrl,
     title: "Jayson Alanano — Full-Stack Developer",
     description:
-      "9+ years across React, Next.js, React Native, Laravel, and WordPress. Remote-first, open to full-time roles.",
+      "9+ years across React, Next.js, React Native, Laravel, Python, and WordPress. Remote-first, open to full-time roles.",
     siteName: "Jayson Alanano",
   },
   twitter: {
     card: "summary_large_image",
     title: "Jayson Alanano — Full-Stack Developer",
     description:
-      "9+ years across React, Next.js, React Native, Laravel, and WordPress. Remote-first, open to full-time roles.",
+      "9+ years across React, Next.js, React Native, Laravel, Python, and WordPress. Remote-first, open to full-time roles.",
   },
 };
 

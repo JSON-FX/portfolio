@@ -40,7 +40,7 @@ export default function OpengraphImage() {
           </div>
         </div>
         <div style={{ display: "flex", fontSize: 30, color: "#96A0AB" }}>
-          React · Next.js · Laravel · React Native — 9+ years · remote-first
+          React · Next.js · Laravel · React Native · Python — 9+ years · remote-first
         </div>
       </div>
     ),

@@ -30,7 +30,7 @@ export default function Hero() {
         </h1>
         <div className="hero-role" data-reveal>
           Full-Stack Developer &nbsp;·&nbsp;{" "}
-          <b>React · Next.js · Laravel · React Native</b> &nbsp;·&nbsp; AI-Augmented DevOps
+          <b>React · Next.js · Laravel · React Native · Python</b> &nbsp;·&nbsp; AI-Augmented DevOps
         </div>
         <div data-reveal>
           <span className="pill">
