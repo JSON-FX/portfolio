@@ -128,6 +128,14 @@ export type Project = {
 
 export const projects: Project[] = [
   {
+    file: "tindahan-pos",
+    ext: "django",
+    title: "Tindahan POS",
+    desc: "A single-store inventory and point-of-sale system for a Philippine retailer. Stock can't go negative under concurrency, on-hand reconciles to an append-only ledger, and VAT-exempt SC/PWD pricing is enforced by tests — database constraints, not conventions.",
+    tags: ["Python", "Django", "PostgreSQL", "HTMX"],
+    href: "https://github.com/JSON-FX/tindahan-pos",
+  },
+  {
     file: "race-pace",
     ext: "react-native",
     title: "race-pace",
@@ -207,6 +215,8 @@ export const stackGroups: { title: string; chips: string[] }[] = [
       "Angular",
       "Laravel",
       "PHP",
+      "Python",
+      "Django",
       "Swift / SwiftUI",
     ],
   },
@@ -232,6 +242,7 @@ export const stackGroups: { title: string; chips: string[] }[] = [
       "CI/CD",
       "REST APIs",
       "MySQL",
+      "PostgreSQL",
       "Zoho CRM",
       "Figma",
     ],
