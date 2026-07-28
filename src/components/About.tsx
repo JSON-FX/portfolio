@@ -17,7 +17,7 @@ export default function About() {
             </p>
             <p className="about-body" data-reveal>
               My core is modern JavaScript — <b>React, Next.js, Vue, and React Native</b>{" "}
-              — alongside <b>Laravel</b> and <b>WordPress</b>. From multi-server
+              — alongside <b>Laravel</b>, <b>Python</b>, and <b>WordPress</b>. From multi-server
               Hub &amp; Spoke distribution to CI/CD pipelines, custom plugins, and
               REST APIs, I build across the whole path to production — for teams
               in Australia, Denmark, Canada, and the US. Remote-first since 2023,

@@ -29,6 +29,7 @@ export const aboutChips: string[] = [
   "Vue.js",
   "Node.js",
   "Laravel",
+  "Python",
   "WordPress",
 ];
 
